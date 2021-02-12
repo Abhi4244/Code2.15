@@ -1,0 +1,5 @@
+img{border:ridge 10px orange;padding: 9px;margin: 12px;background-color: cyan;border-radius: 10px 100px 10px 100px;filter: blur(4px)opacity(90%);filter: grayscale(50%);transform: rotate(36deg);}
+body{background-color: beige}
+span{;font-size: 25px;filter:opacity(10%)grayscale(100%);}
+.offer{font-size: 70px;text-decoration: underline;filter:opacity(10%)}
+.picture{font-size: 48px;filter:opacity(50%);}
